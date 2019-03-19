@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 #enforce_ssl: ityouknow.com
-repository: https://liudangyang.github.io/DangYang.github.io/
+repository: liudangyang/dangyang.github.io/
 github_url: https://github.com/liudangyang
 url: https://liudangyang.github.io
 ## Gem
